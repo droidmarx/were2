@@ -1,3 +1,3 @@
 # were
 
-page: https://droidmarx.github.io/were/
+page: https://droidmarx.github.io/were2/
